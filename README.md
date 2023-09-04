@@ -1,5 +1,8 @@
 # milosnowcat
 
+I'm a dedicated developer with an unwavering commitment to the quality and security of my applications. If you ever encounter issues with your antivirus while installing one of my apps, you can [download my security certificate](certificate.crt) to ensure a worry-free experience. Your peace of mind is my priority. 
+
+
 ## 💫 About Me
 
 🔭 I’m currently working on Demeter_X
