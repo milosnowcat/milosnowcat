@@ -4,7 +4,7 @@ I'm a dedicated developer with an unwavering commitment to the quality and secur
 
 
 # 💫 About Me:
-🔭 I’m currently working on Vagabe<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with contributing to Open Source projects<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Omori<br>⚡ Fun fact, cats can sleep up to 16 hours a day
+🔭 I’m currently working on Vagabe<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with contributing to Open Source projects<br>🌱 I’m currently learning Angular<br>💬 Ask me about Omori<br>⚡ Fun fact, cats can sleep up to 16 hours a day
 
 
 ## 🌐 Socials:
